@@ -16,6 +16,9 @@ import java.util.logging.LogManager;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
+import C3403.A1.IUTEngine;
+import C3403.A1.OracleEngine;
+
 public class Harness{
 	private ArrayList<Double> RSPList, SO2List, NO2List, O3List;
 	private ArrayList<String> VariantList;

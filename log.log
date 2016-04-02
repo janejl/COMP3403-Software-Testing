@@ -1,0 +1,82 @@
+Apr 02, 2016 6:10:37 PM A1_2.Harness main
+INFO: test mode: 1, test file: test.txt
+Apr 02, 2016 6:10:37 PM A1_2.Harness RunDomainTest
+WARNING: [RunDomainTest] fail in test case 2 with IUT = 5000, Oracle = 4861
+Apr 02, 2016 6:10:37 PM A1_2.Harness RunDomainTest
+WARNING: [RunDomainTest] fail in test case 3 with IUT = 3254, Oracle = 3244
+Apr 02, 2016 6:10:37 PM A1_2.Harness RunDomainTest
+WARNING: [RunDomainTest] fail in test case 8 with IUT = 4950, Oracle = 4500
+Apr 02, 2016 6:10:39 PM A1_2.Harness RunDomainTest
+WARNING: [RunDomainTest] fail in test case 20 with IUT = 1500, Oracle = 58
+Apr 02, 2016 6:10:39 PM A1_2.Harness RunDomainTest
+WARNING: [RunDomainTest] fail in test case 24 with IUT = 350, Oracle = 36
+Apr 02, 2016 6:10:39 PM A1_2.Harness main
+INFO: test is done!
+
+Apr 02, 2016 6:12:54 PM A1_2.Harness main
+INFO: test mode: 2, test loops: 10000
+Apr 02, 2016 6:13:19 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 67.8 1.045 1.019 0.213 with IUT = 2518, Oracle = 518
+Apr 02, 2016 6:13:25 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 127.8 0.660 1.499 0.654 with IUT = 2084, Oracle = 2074
+Apr 02, 2016 6:13:45 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 92.1 2.013 1.139 1.268 with IUT = 851, Oracle = 842
+Apr 02, 2016 6:14:17 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.2 1.579 0.575 0.811 with IUT = 2823, Oracle = 2758
+Apr 02, 2016 6:15:14 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.2 0.089 1.349 0.079 with IUT = 2826, Oracle = 2761
+Apr 02, 2016 6:16:27 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 183.8 0.495 1.499 1.011 with IUT = 2992, Oracle = 2982
+Apr 02, 2016 6:16:41 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 27.4 1.174 0.801 0.578 with IUT = 3171, Oracle = 452
+Apr 02, 2016 6:17:33 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 83.7 2.086 1.179 1.358 with IUT = 873, Oracle = 864
+Apr 02, 2016 6:18:08 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 33.2 0.969 0.802 1.141 with IUT = 3220, Oracle = 459
+Apr 02, 2016 6:18:19 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 190.2 0.532 1.499 0.315 with IUT = 3095, Oracle = 3085
+Apr 02, 2016 6:21:04 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.2 1.114 0.402 0.193 with IUT = 2618, Oracle = 2553
+Apr 02, 2016 6:21:58 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 83.5 2.080 1.142 1.343 with IUT = 857, Oracle = 848
+Apr 02, 2016 6:22:08 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 10.1 0.790 0.801 0.637 with IUT = 2583, Oracle = 368
+Apr 02, 2016 6:22:10 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.1 2.324 1.223 1.380 with IUT = 2824, Oracle = 2759
+Apr 02, 2016 6:22:24 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 7.8 2.173 0.802 0.481 with IUT = 4858, Oracle = 693
+Apr 02, 2016 6:22:40 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 106.6 2.542 1.499 0.189 with IUT = 1741, Oracle = 1731
+Apr 02, 2016 6:23:01 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.1 0.631 1.445 0.252 with IUT = 2824, Oracle = 2759
+Apr 02, 2016 6:23:28 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.1 0.305 1.376 0.145 with IUT = 2824, Oracle = 2759
+Apr 02, 2016 6:26:41 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 259.1 1.374 1.499 1.328 with IUT = 4211, Oracle = 4201
+Apr 02, 2016 6:27:34 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.1 1.477 0.491 0.500 with IUT = 2822, Oracle = 2757
+Apr 02, 2016 6:28:04 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.1 2.169 0.358 0.087 with IUT = 2821, Oracle = 2756
+Apr 02, 2016 6:28:28 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.1 1.702 1.080 0.297 with IUT = 2823, Oracle = 2758
+Apr 02, 2016 6:28:30 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 2.6 2.086 1.124 1.268 with IUT = 770, Oracle = 761
+Apr 02, 2016 6:28:52 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 78.5 2.597 0.801 0.602 with IUT = 5000, Oracle = 849
+Apr 02, 2016 6:30:28 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 300.0 2.101 0.496 0.293 with IUT = 5000, Oracle = 4861
+Apr 02, 2016 6:30:30 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.2 1.646 1.122 0.594 with IUT = 2825, Oracle = 2760
+Apr 02, 2016 6:30:54 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 91.5 0.005 0.279 0.241 with IUT = 68, Oracle = 49
+Apr 02, 2016 6:31:09 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 86.6 1.063 0.927 0.289 with IUT = 2481, Oracle = 481
+Apr 02, 2016 6:32:07 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 170.2 0.051 0.453 1.252 with IUT = 2823, Oracle = 2758
+Apr 02, 2016 6:32:09 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 14.6 2.043 1.408 1.288 with IUT = 911, Oracle = 902
+Apr 02, 2016 6:32:13 PM A1_2.Harness RunRandomTest
+WARNING: [RunRandomTest] fail in test: 86.1 1.344 0.801 0.671 with IUT = 3829, Oracle = 546
+Apr 02, 2016 6:32:33 PM A1_2.Harness main
+INFO: test is done!
+
