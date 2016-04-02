@@ -1,0 +1,26 @@
+========== Streamlined Domain Test Result ==========
+Test Case 1: Pass!     Variant = V1, IUT = 1, Oracle = 1
+Test Case 2: Pass!     Variant = V1, IUT = 1, Oracle = 1
+Test Case 3: Pass!     Variant = V1, IUT = 1, Oracle = 1
+Test Case 4: Pass!     Variant = V1, IUT = 1, Oracle = 1
+Test Case 5: Pass!     Variant = V1, IUT = 1, Oracle = 1
+Test Case 6: Pass!     Variant = V1, IUT = 1, Oracle = 1
+Test Case 7: Pass!     Variant = V2, IUT = 1, Oracle = 1
+Test Case 8: Pass!     Variant = V2, IUT = 1, Oracle = 1
+Test Case 9: Pass!     Variant = V2, IUT = 1, Oracle = 1
+Test Case 10: Pass!     Variant = V2, IUT = 1, Oracle = 1
+Test Case 11: Pass!     Variant = V2, IUT = 1, Oracle = 1
+Test Case 12: Pass!     Variant = V2, IUT = 1, Oracle = 1
+Test Case 13: Pass!     Variant = V3, IUT = 2, Oracle = 2
+Test Case 14: Pass!     Variant = V3, IUT = 2, Oracle = 2
+Test Case 15: Pass!     Variant = V3, IUT = 2, Oracle = 2
+Test Case 16: Pass!     Variant = V3, IUT = 2, Oracle = 2
+Test Case 17: Pass!     Variant = V3, IUT = 2, Oracle = 2
+Test Case 18: Pass!     Variant = V3, IUT = 2, Oracle = 2
+Test Case 19: Pass!     Variant = V4, IUT = 3, Oracle = 3
+Test Case 20: Pass!     Variant = V4, IUT = 3, Oracle = 3
+Test Case 21: Pass!     Variant = V4, IUT = 3, Oracle = 3
+Test Case 22: Pass!     Variant = V4, IUT = 3, Oracle = 3
+Test Case 23: Pass!     Variant = V4, IUT = 3, Oracle = 3
+Test Case 24: Pass!     Variant = V4, IUT = 3, Oracle = 3
+========== End of test ==========

@@ -1,4 +1,4 @@
-package A1_1;
+package A1_2;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
