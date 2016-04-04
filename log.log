@@ -80,3 +80,119 @@ WARNING: [RunRandomTest] fail in test: 86.1 1.344 0.801 0.671 with IUT = 3829, O
 Apr 02, 2016 6:32:33 PM A1_2.Harness main
 INFO: test is done!
 
+Apr 04, 2016 7:33:50 PM A1_2.Harness main
+INFO: test mode: 1, test file: test.txt
+Apr 04, 2016 7:33:50 PM A1_2.Harness RunDomainTest
+WARNING: Test 2 Fail! RSP=300.0 SO2=1.0 NO2=0.5 O3=0.5 - IUT = 5000, Oracle = 4861
+Apr 04, 2016 7:33:50 PM A1_2.Harness RunDomainTest
+WARNING: Test 3 Fail! RSP=200.0 SO2=1.0 NO2=1.499 O3=0.5 - IUT = 3254, Oracle = 3244
+Apr 04, 2016 7:33:50 PM A1_2.Harness RunDomainTest
+WARNING: Test 8 Fail! RSP=300.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 4950, Oracle = 4500
+Apr 04, 2016 7:33:52 PM A1_2.Harness RunDomainTest
+WARNING: Test 20 Fail! RSP=100.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 1500, Oracle = 58
+Apr 04, 2016 7:33:52 PM A1_2.Harness RunDomainTest
+WARNING: Test 24 Fail! RSP=50.0 SO2=0.5 NO2=0.5 O3=0.5 - IUT = 350, Oracle = 36
+Apr 04, 2016 7:33:52 PM A1_2.Harness main
+INFO: test is done!
+
+Apr 04, 2016 7:37:20 PM A1_2.Harness main
+INFO: test mode: 1, test file: test.txt
+Apr 04, 2016 7:37:20 PM A1_2.Harness RunDomainTest
+WARNING: Test 2 Fail! RSP=300.0 SO2=1.0 NO2=0.5 O3=0.5 - IUT = 5000, Oracle = 4861, VV1
+Apr 04, 2016 7:37:20 PM A1_2.Harness RunDomainTest
+WARNING: Test 3 Fail! RSP=200.0 SO2=1.0 NO2=1.499 O3=0.5 - IUT = 3254, Oracle = 3244, VV1
+Apr 04, 2016 7:37:21 PM A1_2.Harness RunDomainTest
+WARNING: Test 8 Fail! RSP=300.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 4950, Oracle = 4500, VV2
+Apr 04, 2016 7:37:22 PM A1_2.Harness RunDomainTest
+WARNING: Test 20 Fail! RSP=100.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 1500, Oracle = 58, VV4
+Apr 04, 2016 7:37:22 PM A1_2.Harness RunDomainTest
+WARNING: Test 24 Fail! RSP=50.0 SO2=0.5 NO2=0.5 O3=0.5 - IUT = 350, Oracle = 36, VV4
+Apr 04, 2016 7:37:22 PM A1_2.Harness main
+INFO: test is done!
+
+Apr 04, 2016 7:38:10 PM A1_2.Harness main
+INFO: test mode: 1, test file: test.txt
+Apr 04, 2016 7:38:10 PM A1_2.Harness RunDomainTest
+WARNING: Test 2 Fail! RSP=300.0 SO2=1.0 NO2=0.5 O3=0.5 - IUT = 5000, Oracle = 4861, V1
+Apr 04, 2016 7:38:10 PM A1_2.Harness RunDomainTest
+WARNING: Test 3 Fail! RSP=200.0 SO2=1.0 NO2=1.499 O3=0.5 - IUT = 3254, Oracle = 3244, V1
+Apr 04, 2016 7:38:11 PM A1_2.Harness RunDomainTest
+WARNING: Test 8 Fail! RSP=300.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 4950, Oracle = 4500, V2
+Apr 04, 2016 7:38:12 PM A1_2.Harness RunDomainTest
+WARNING: Test 20 Fail! RSP=100.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 1500, Oracle = 58, V4
+Apr 04, 2016 7:38:13 PM A1_2.Harness RunDomainTest
+WARNING: Test 24 Fail! RSP=50.0 SO2=0.5 NO2=0.5 O3=0.5 - IUT = 350, Oracle = 36, V4
+Apr 04, 2016 7:38:13 PM A1_2.Harness main
+INFO: test is done!
+
+Apr 04, 2016 7:40:13 PM A1_2.Harness main
+INFO: test mode: 2, test loops: 50
+Apr 04, 2016 7:40:18 PM A1_2.Harness main
+INFO: test is done!
+
+Apr 04, 2016 7:40:47 PM A1_2.Harness main
+INFO: test mode: 2, test loops: 100
+Apr 04, 2016 7:40:58 PM A1_2.Harness main
+INFO: test is done!
+
+Apr 04, 2016 7:41:37 PM A1_2.Harness main
+INFO: test mode: 2, test loops: 10000
+Apr 04, 2016 7:41:51 PM A1_2.Harness RunRandomTest
+WARNING: Test 135 Fail! RSP=170.1 SO2=0.141 NO2=0.422 O3=0.148 - IUT = 2616, Oracle = 2551
+Apr 04, 2016 7:41:56 PM A1_2.Harness RunRandomTest
+WARNING: Test 188 Fail! RSP=170.2 SO2=0.621 NO2=1.218 O3=1.295 - IUT = 2825, Oracle = 2760
+Apr 04, 2016 7:42:17 PM A1_2.Harness RunRandomTest
+WARNING: Test 388 Fail! RSP=170.1 SO2=1.874 NO2=0.627 O3=0.853 - IUT = 2822, Oracle = 2757
+Apr 04, 2016 7:42:25 PM A1_2.Harness RunRandomTest
+WARNING: Test 471 Fail! RSP=95.8 SO2=1.036 NO2=1.024 O3=0.379 - IUT = 2545, Oracle = 545
+Apr 04, 2016 7:42:40 PM A1_2.Harness RunRandomTest
+WARNING: Test 610 Fail! RSP=147.2 SO2=1.392 NO2=1.499 O3=0.992 - IUT = 2399, Oracle = 2389
+Apr 04, 2016 7:42:41 PM A1_2.Harness RunRandomTest
+WARNING: Test 620 Fail! RSP=219.2 SO2=0.628 NO2=1.499 O3=1.309 - IUT = 3565, Oracle = 3555
+Apr 04, 2016 7:43:43 PM A1_2.Harness RunRandomTest
+WARNING: Test 1219 Fail! RSP=32.4 SO2=2.661 NO2=0.801 O3=0.416 - IUT = 5000, Oracle = 815
+Apr 04, 2016 7:44:42 PM A1_2.Harness RunRandomTest
+WARNING: Test 1794 Fail! RSP=196.7 SO2=2.620 NO2=1.499 O3=0.336 - IUT = 3201, Oracle = 3191
+Apr 04, 2016 7:44:58 PM A1_2.Harness RunRandomTest
+WARNING: Test 1948 Fail! RSP=170.1 SO2=2.279 NO2=0.884 O3=0.453 - IUT = 2823, Oracle = 2758
+Apr 04, 2016 7:45:00 PM A1_2.Harness RunRandomTest
+WARNING: Test 1966 Fail! RSP=170.2 SO2=2.868 NO2=0.784 O3=1.154 - IUT = 2824, Oracle = 2759
+Apr 04, 2016 7:45:00 PM A1_2.Harness RunRandomTest
+WARNING: Test 1969 Fail! RSP=82.7 SO2=0.065 NO2=0.235 O3=0.082 - IUT = 310, Oracle = 44
+Apr 04, 2016 7:45:17 PM A1_2.Harness RunRandomTest
+WARNING: Test 2130 Fail! RSP=170.1 SO2=2.111 NO2=0.077 O3=0.928 - IUT = 2820, Oracle = 2755
+Apr 04, 2016 7:48:19 PM A1_2.Harness RunRandomTest
+WARNING: Test 3888 Fail! RSP=73.5 SO2=1.747 NO2=0.704 O3=0.000 - IUT = 687, Oracle = 587
+Apr 04, 2016 7:48:25 PM A1_2.Harness RunRandomTest
+WARNING: Test 3949 Fail! RSP=170.2 SO2=1.619 NO2=1.045 O3=0.587 - IUT = 2825, Oracle = 2760
+Apr 04, 2016 7:48:42 PM A1_2.Harness RunRandomTest
+WARNING: Test 4115 Fail! RSP=59.9 SO2=1.024 NO2=0.960 O3=0.388 - IUT = 2450, Oracle = 450
+Apr 04, 2016 7:49:15 PM A1_2.Harness RunRandomTest
+WARNING: Test 4433 Fail! RSP=72.3 SO2=1.091 NO2=1.100 O3=0.275 - IUT = 2540, Oracle = 540
+Apr 04, 2016 7:50:42 PM A1_2.Harness RunRandomTest
+WARNING: Test 5273 Fail! RSP=170.2 SO2=1.154 NO2=0.891 O3=0.038 - IUT = 2824, Oracle = 2759
+Apr 04, 2016 7:51:34 PM A1_2.Harness RunRandomTest
+WARNING: Test 5777 Fail! RSP=1.8 SO2=0.069 NO2=0.303 O3=0.206 - IUT = 37, Oracle = 5
+Apr 04, 2016 7:51:48 PM A1_2.Harness RunRandomTest
+WARNING: Test 5916 Fail! RSP=168.9 SO2=2.592 NO2=1.499 O3=0.646 - IUT = 2750, Oracle = 2740
+Apr 04, 2016 7:52:56 PM A1_2.Harness RunRandomTest
+WARNING: Test 6572 Fail! RSP=24.8 SO2=1.037 NO2=0.844 O3=0.289 - IUT = 2414, Oracle = 414
+Apr 04, 2016 7:53:06 PM A1_2.Harness RunRandomTest
+WARNING: Test 6671 Fail! RSP=215.3 SO2=1.780 NO2=1.499 O3=0.765 - IUT = 3502, Oracle = 3492
+Apr 04, 2016 7:53:44 PM A1_2.Harness RunRandomTest
+WARNING: Test 7042 Fail! RSP=56.2 SO2=0.008 NO2=0.145 O3=0.174 - IUT = 49, Oracle = 30
+Apr 04, 2016 7:54:41 PM A1_2.Harness RunRandomTest
+WARNING: Test 7590 Fail! RSP=98.9 SO2=1.771 NO2=0.802 O3=0.486 - IUT = 4396, Oracle = 627
+Apr 04, 2016 7:54:55 PM A1_2.Harness RunRandomTest
+WARNING: Test 7730 Fail! RSP=91.9 SO2=0.063 NO2=0.182 O3=0.040 - IUT = 338, Oracle = 48
+Apr 04, 2016 7:56:02 PM A1_2.Harness RunRandomTest
+WARNING: Test 8376 Fail! RSP=29.9 SO2=1.060 NO2=1.062 O3=0.292 - IUT = 2487, Oracle = 487
+Apr 04, 2016 7:56:19 PM A1_2.Harness RunRandomTest
+WARNING: Test 8541 Fail! RSP=27.3 SO2=2.189 NO2=0.801 O3=0.317 - IUT = 5000, Oracle = 716
+Apr 04, 2016 7:58:05 PM A1_2.Harness RunRandomTest
+WARNING: Test 9567 Fail! RSP=160.8 SO2=2.148 NO2=1.499 O3=0.606 - IUT = 2619, Oracle = 2609
+Apr 04, 2016 7:58:11 PM A1_2.Harness RunRandomTest
+WARNING: Test 9620 Fail! RSP=21.8 SO2=1.395 NO2=1.084 O3=0.000 - IUT = 645, Oracle = 545
+Apr 04, 2016 7:58:50 PM A1_2.Harness main
+INFO: test is done!
+

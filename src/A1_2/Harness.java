@@ -122,12 +122,11 @@ public class Harness{
 			oracle_result = oracle.calculateIndex(RSPList.get(i), SO2List.get(i), NO2List.get(i), O3List.get(i));
 			
 			if(iut_result != oracle_result){
-				writer.print("Test Case "+(i+1)+": Fail!");
-				logger.warning("[RunDomainTest] fail in test case "+(i+1)+" with IUT = "+iut_result+", Oracle = "+oracle_result);
+				writer.println("Test "+(i+1)+" Fail! RSP="+RSPList.get(i)+" SO2="+SO2List.get(i)+" NO2="+NO2List.get(i)+" O3="+O3List.get(i)+" - IUT = "+iut_result+", Oracle = "+oracle_result+", "+VariantList.get(i));
+				logger.warning("Test "+(i+1)+" Fail! RSP="+RSPList.get(i)+" SO2="+SO2List.get(i)+" NO2="+NO2List.get(i)+" O3="+O3List.get(i)+" - IUT = "+iut_result+", Oracle = "+oracle_result+", "+VariantList.get(i));
 			}else{
-				writer.print("Test Case "+(i+1)+": Pass!");
+				writer.println("Test "+(i+1)+" Pass! RSP="+RSPList.get(i)+" SO2="+SO2List.get(i)+" NO2="+NO2List.get(i)+" O3="+O3List.get(i)+" - IUT = "+iut_result+", Oracle = "+oracle_result+", "+VariantList.get(i));
 			}
-			writer.println("     Variant = "+VariantList.get(i)+", IUT = "+iut_result+", Oracle = "+oracle_result);
 		}
 		
 		writer.println("========== End of test ==========");
@@ -172,12 +171,11 @@ public class Harness{
 				oracle_result = oracle.calculateIndex(Double.valueOf(R), Double.valueOf(S), Double.valueOf(N), Double.valueOf(O));
 				
 				if(iut_result != oracle_result){
-					writer.print("Test Case "+(i+1)+": Fail!   ");
-					logger.warning("[RunRandomTest] fail in test: "+key+" with IUT = "+iut_result+", Oracle = "+oracle_result);
+					writer.println("Test "+(i+1)+" Fail! RSP="+R+" SO2="+S+" NO2="+N+" O3="+O+" - IUT = "+iut_result+", Oracle = "+oracle_result);
+					logger.warning("Test "+(i+1)+" Fail! RSP="+R+" SO2="+S+" NO2="+N+" O3="+O+" - IUT = "+iut_result+", Oracle = "+oracle_result);
 				}else{
-					writer.print("Test Case "+(i+1)+": Pass!   ");
+					writer.print("Test Case "+(i+1)+": Pass! RSP="+R+" SO2="+S+" NO2="+N+" O3="+O+" - IUT = "+iut_result+", Oracle = "+oracle_result);
 				}
-				writer.println(key+"   IUT = "+iut_result+", Oracle = "+oracle_result);
 				randomTestBase.put(key, iut_result);
 			}
 			
