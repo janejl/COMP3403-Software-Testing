@@ -80,36 +80,6 @@ WARNING: [RunRandomTest] fail in test: 86.1 1.344 0.801 0.671 with IUT = 3829, O
 Apr 02, 2016 6:32:33 PM A1_2.Harness main
 INFO: test is done!
 
-Apr 04, 2016 7:33:50 PM A1_2.Harness main
-INFO: test mode: 1, test file: test.txt
-Apr 04, 2016 7:33:50 PM A1_2.Harness RunDomainTest
-WARNING: Test 2 Fail! RSP=300.0 SO2=1.0 NO2=0.5 O3=0.5 - IUT = 5000, Oracle = 4861
-Apr 04, 2016 7:33:50 PM A1_2.Harness RunDomainTest
-WARNING: Test 3 Fail! RSP=200.0 SO2=1.0 NO2=1.499 O3=0.5 - IUT = 3254, Oracle = 3244
-Apr 04, 2016 7:33:50 PM A1_2.Harness RunDomainTest
-WARNING: Test 8 Fail! RSP=300.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 4950, Oracle = 4500
-Apr 04, 2016 7:33:52 PM A1_2.Harness RunDomainTest
-WARNING: Test 20 Fail! RSP=100.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 1500, Oracle = 58
-Apr 04, 2016 7:33:52 PM A1_2.Harness RunDomainTest
-WARNING: Test 24 Fail! RSP=50.0 SO2=0.5 NO2=0.5 O3=0.5 - IUT = 350, Oracle = 36
-Apr 04, 2016 7:33:52 PM A1_2.Harness main
-INFO: test is done!
-
-Apr 04, 2016 7:37:20 PM A1_2.Harness main
-INFO: test mode: 1, test file: test.txt
-Apr 04, 2016 7:37:20 PM A1_2.Harness RunDomainTest
-WARNING: Test 2 Fail! RSP=300.0 SO2=1.0 NO2=0.5 O3=0.5 - IUT = 5000, Oracle = 4861, VV1
-Apr 04, 2016 7:37:20 PM A1_2.Harness RunDomainTest
-WARNING: Test 3 Fail! RSP=200.0 SO2=1.0 NO2=1.499 O3=0.5 - IUT = 3254, Oracle = 3244, VV1
-Apr 04, 2016 7:37:21 PM A1_2.Harness RunDomainTest
-WARNING: Test 8 Fail! RSP=300.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 4950, Oracle = 4500, VV2
-Apr 04, 2016 7:37:22 PM A1_2.Harness RunDomainTest
-WARNING: Test 20 Fail! RSP=100.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 1500, Oracle = 58, VV4
-Apr 04, 2016 7:37:22 PM A1_2.Harness RunDomainTest
-WARNING: Test 24 Fail! RSP=50.0 SO2=0.5 NO2=0.5 O3=0.5 - IUT = 350, Oracle = 36, VV4
-Apr 04, 2016 7:37:22 PM A1_2.Harness main
-INFO: test is done!
-
 Apr 04, 2016 7:38:10 PM A1_2.Harness main
 INFO: test mode: 1, test file: test.txt
 Apr 04, 2016 7:38:10 PM A1_2.Harness RunDomainTest
@@ -123,16 +93,6 @@ WARNING: Test 20 Fail! RSP=100.0 SO2=0.2 NO2=0.5 O3=0.5 - IUT = 1500, Oracle = 5
 Apr 04, 2016 7:38:13 PM A1_2.Harness RunDomainTest
 WARNING: Test 24 Fail! RSP=50.0 SO2=0.5 NO2=0.5 O3=0.5 - IUT = 350, Oracle = 36, V4
 Apr 04, 2016 7:38:13 PM A1_2.Harness main
-INFO: test is done!
-
-Apr 04, 2016 7:40:13 PM A1_2.Harness main
-INFO: test mode: 2, test loops: 50
-Apr 04, 2016 7:40:18 PM A1_2.Harness main
-INFO: test is done!
-
-Apr 04, 2016 7:40:47 PM A1_2.Harness main
-INFO: test mode: 2, test loops: 100
-Apr 04, 2016 7:40:58 PM A1_2.Harness main
 INFO: test is done!
 
 Apr 04, 2016 7:41:37 PM A1_2.Harness main
